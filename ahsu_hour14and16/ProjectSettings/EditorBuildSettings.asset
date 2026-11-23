@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ahsu_Hour14.unity
+    guid: 6788b61b53e28d64381979b0579ce90b
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 8c5b8b4ab44662b4985167665f940bf5
   m_configObjects: {}
